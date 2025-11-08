@@ -55,6 +55,7 @@
 <div align="center">
 
 ### **GitHub Statistics**
+<!--
 <table>
   <tr>
     <td align="center">
@@ -67,7 +68,7 @@
   <tr>
    <!-- <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISeam&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
-    </td> -->
+    </td> 
     <td align="center" colspan="2">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark" width="45%" />
   </td>
@@ -76,9 +77,27 @@
     </td>
   </tr>
 </table>
+-->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KISeam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISeam&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark" width="45%" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark" width="45%" />
+    </td>
+  </tr>
+</table>
 
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KISeam&theme=react-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity)
-
+-->
 
 ### **Achievements**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KISeam&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4)
